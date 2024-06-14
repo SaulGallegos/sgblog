@@ -1,0 +1,44 @@
+baseUrl: ''
+languageCode: 'en-us'
+title: 'Saúl Gallegos'
+theme: 'PaperMod'
+description: 'Unveiling the Intersection: AI, Business, Books & Life'
+enableRobotsTXT: true
+
+params:
+  homeInfoParams:
+    Title: 'Unveiling the Intersection: AI, Business, Books & Life'
+    Content: "Navigate the exciting (and sometimes messy) crossroads of AI, business, personal growth, and the lessons learned along the way. Join me, Saúl, Koble's Head of AI & Founder of Sourcechat.io, for an unfiltered journey."
+
+  socialIcons:
+    - name: linkedin
+      url: 'https://www.linkedin.com/in/saulgallegos/'
+
+  ShowBreadCrumbs: true
+  ShowReadingTime: true
+  ShowPostNavLinks: true
+
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 30
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 40
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
