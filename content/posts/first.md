@@ -32,7 +32,7 @@ Let me tell you a bit about myself.
 ## Personal stuff
 
 - I'm more into audiobooks than books, finishing around 5 per month.
-- I have a rescue dog called Nina.
+- I have a dog called Nina.
 - I really enjoy movies and have a huge list if you'd like a recommendation.
 - I'm into general fitness, especially weights and some martial arts.
 
