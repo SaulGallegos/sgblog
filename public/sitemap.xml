@@ -2,10 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/books/</loc>
+    <lastmod>2024-06-14T13:51:07-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/books/</loc>
+    <lastmod>2024-06-14T13:51:07-06:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/business/</loc>
     <lastmod>2024-06-14T13:51:07-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2024-06-14T13:51:07-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/awaken_the_giant_within/</loc>
     <lastmod>2024-06-14T13:51:07-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/koble/</loc>
@@ -29,7 +38,7 @@
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-06-14T13:51:07-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/first/</loc>
+    <loc>http://localhost:1313/posts/about_me/</loc>
     <lastmod>2024-06-14T13:51:07-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/archives/</loc>
