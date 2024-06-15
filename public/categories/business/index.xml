@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Business on Saúl Gallegos</title>
-    <link>http://localhost:1313/tags/business/</link>
+    <link>http://localhost:1313/categories/business/</link>
     <description>Recent content in Business on Saúl Gallegos</description>
     <generator>Hugo -- 0.127.0</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 14 Jun 2024 13:51:07 -0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/business/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/business/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Sourcechat, my new company</title>
       <link>http://localhost:1313/posts/about_sourcechat/</link>
@@ -17,15 +17,6 @@
 Maybe &amp;lsquo;company&amp;rsquo; is a bit broad, Sourcechat is a Saas, someone could even argue that is a micro-saas because the only purpose of it is to give early founders an affordable and smart AI chatbot for their websites.
 I think is a great product
 Anyone can get started for free No credit card needed You can setup a chatbot in a couple of minutes And only if you found the chatbot useful you can upgrade to a premium plan.</description>
-    </item>
-    <item>
-      <title>Welcome, little background of myself</title>
-      <link>http://localhost:1313/posts/about_me/</link>
-      <pubDate>Fri, 14 Jun 2024 13:51:07 -0600</pubDate>
-      <guid>http://localhost:1313/posts/about_me/</guid>
-      <description>Welcome, friend Somehow you got here. Maybe you already know me, or maybe you&amp;rsquo;re curious to learn more.
-Let me tell you a bit about myself.
-The beginning I studied artificial intelligence in college (a long 5 years). Got my first YC startup job at 20. There, I discovered a real passion for the business side of software &amp;amp; AI. Started as a tech lead at koble when there was just a figma design and we build the MVP.</description>
     </item>
   </channel>
 </rss>
