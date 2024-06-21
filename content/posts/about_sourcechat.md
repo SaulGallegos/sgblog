@@ -4,8 +4,8 @@ date: 2024-06-14T13:51:07-06:00
 draft: false
 cover:
   image: images/sourcechat.png
-  alt: 'Sourcechat LinkedIn Page'
-  caption: 'Sourcechat LinkedIn Page'
+  alt: 'Sourcechat.io Landing page'
+  caption: 'Sourcechat.io Landing page'
 tags: ['Business']
 categories: ['Business']
 ---
